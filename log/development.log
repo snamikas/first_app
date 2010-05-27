@@ -1,0 +1,9 @@
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2010-05-27 09:51:48
+  [1m[36mSQL (0.2ms)[0m  [1mSET client_min_messages TO 'panic'[0m
+  [1m[35mSQL (0.1ms)[0m  SET client_min_messages TO 'notice'
+  [1m[36mSQL (107.3ms)[0m  [1mSET time zone 'UTC'[0m
+  Processing by Rails::InfoController#properties as HTML
+Rendered inline template (0.9ms)
+Completed 200 OK in 112ms (Views: 3.2ms | ActiveRecord: 107.5ms)
